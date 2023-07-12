@@ -13,4 +13,4 @@
 * laço de repetição (sempre e restrito);
 * sensores (movimento do mouse);
 * criação de clones (reutilização de algorítmos);
-* controles visuais (ocultar e mostrar componentes);
+* controles visuais (ocultar e mostrar componentes, mensagens);
