@@ -6,11 +6,11 @@ Este repositório é utilizado para o curso “scratch-programacao-criativa” d
 
 ## Rúbricas
 
-* estruturação algorítmo:
+* estruturação algoritmo:
   * decomposição do problemas em partes menores;
   * encontrar padrões nas partes menores;
   * abstração e composição da solução;
-  * algorítmo;
+  * algoritmo;
 * comandos de movimento e direção;
 * variáveis (criação e alteração de valores);
 * condição (se);
